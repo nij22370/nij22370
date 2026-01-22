@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nij22370" alt="nij22370" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nij22370&theme=radical&row=1&column=4" alt="nij22370" />
   </a> 
 </p>
 
@@ -55,10 +55,11 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nij22370&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center">
+  <!-- Radar-style chart similar to your image -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nij22370&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github.com/nij22370.png?tab=contributions" alt="GitHub Contributions Chart" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nij22370&show_icons=true&theme=radical&count_private=true" alt="GitHub Contributions" />
 </p>
