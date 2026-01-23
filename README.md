@@ -54,12 +54,4 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <!-- Radar-style chart similar to your image -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nij22370&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nij22370&show_icons=true&theme=radical&count_private=true" alt="GitHub Contributions" />
-</p>
